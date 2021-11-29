@@ -3,6 +3,14 @@ body {
    color:#706C61;
    font-family: sans-serif;
    text-align: center;
+   align-items: center;
+ }
+ p{
+   padding-left: 15%;
+   padding-right: 15%;
+ }
+ p.main-text{
+   text-align: left;
  }
 figure{
   margin-left: 0;
